@@ -1,4 +1,4 @@
-## 안녕하세요 👋
+## 안녕하세요
 
 <!--
 **vavoya/vavoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-저에 대한 자세한 소개는 아래 링크에서 확인 가능합니다.   
-[포트폴리오 이동](https://www.sim-log.com/@vavoya/%EC%9E%84%EC%8B%9C-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-15)
+ 
+[불로그 이동](https://www.sim-log.com/@vavoya)
